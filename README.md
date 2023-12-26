@@ -1,3 +1,13 @@
+### maven:
+
+```
+<dependency>
+  <groupId>io.github.taraska</groupId>
+  <artifactId>WalletBusinessPay</artifactId>
+  <version>1.0.0</version>
+</dependency>
+```
+
 # wallet-business-pay
 Telegram wallet pay
 API for https://pay.wallet.tg/
